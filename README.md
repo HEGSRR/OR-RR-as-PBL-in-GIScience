@@ -14,6 +14,9 @@ Reproductions and replications (R&R) are needed in GIScience for the same reason
 
 - Publication:
 - OSF Preprint:
+- Course Website: [https://opengisci.github.io/](https://opengisci.github.io/)
+- Repository Template: [https://github.com/HEGSRR/HEGSRR-Template](https://github.com/HEGSRR/HEGSRR-Template)
+- Example Reproductions: [Malcomb et al. (2014)](https://github.com/HEGSRR/RPr-Malcomb-2014), [Chakraborty (2021)](https://doi.org/10.17605/OSF.IO/S5MTQ), [Spielman et al. (2020)](https://doi.org/10.17605/OSF.IO/DZPE9), [Kang et al. (2020)](https://doi.org/10.17605/OSF.IO/N92V3), [Vijayan et al. (2020)](https://doi.org/10.17605/OSF.IO/MY5DZ), [Saffary et al. (2020)](https://doi.org/10.17605/OSF.IO/QFKG4), [Mollalo et al. (2020)](https://doi.org/10.17605/OSF.IO/E43KQ), [DiMaggio et al. (2020)](https://doi.org/10.17605/OSF.IO/N32GE ).
 
 ## Repository Contents
 
