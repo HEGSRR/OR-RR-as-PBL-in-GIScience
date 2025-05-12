@@ -13,7 +13,7 @@ The curricular models used to teach GIScience may leave students underprepared t
 ## Repository Relates to:
 
 - Publication:
-- OSF Preprint: [https://10.31219/osf.io/6mnaj_v1]
+- OSF Preprint: [https://10.31219/osf.io/6mnaj_v1](https://10.31219/osf.io/6mnaj_v1)
 - Course Website: [https://opengisci.github.io/](https://opengisci.github.io/)
 - Repository Template: [https://github.com/HEGSRR/HEGSRR-Template](https://github.com/HEGSRR/HEGSRR-Template)
 - Example Reproductions: [Malcomb et al. (2014)](https://github.com/HEGSRR/RPr-Malcomb-2014), [Chakraborty (2021)](https://doi.org/10.17605/OSF.IO/S5MTQ), [Spielman et al. (2020)](https://doi.org/10.17605/OSF.IO/DZPE9), [Kang et al. (2020)](https://doi.org/10.17605/OSF.IO/N92V3), [Vijayan et al. (2020)](https://doi.org/10.17605/OSF.IO/MY5DZ), [Saffary et al. (2020)](https://doi.org/10.17605/OSF.IO/QFKG4), [Mollalo et al. (2020)](https://doi.org/10.17605/OSF.IO/E43KQ), [DiMaggio et al. (2020)](https://doi.org/10.17605/OSF.IO/N32GE ).
