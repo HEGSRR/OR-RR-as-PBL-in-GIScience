@@ -17,6 +17,7 @@ See this table: [Potential_Class_Reproductions.csv](Potential_Class_Reproduction
 ## Repository Relates to:
 
 - Publication:
+- OSF Project: [https://doi.org/10.17605/OSF.IO/N8S43](https://doi.org/10.17605/OSF.IO/N8S43)
 - OSF Preprint: [https://10.31219/osf.io/6mnaj_v1](https://10.31219/osf.io/6mnaj_v1)
 - Course Website: [https://opengisci.github.io/](https://opengisci.github.io/)
 - Repository Template: [https://github.com/HEGSRR/HEGSRR-Template](https://github.com/HEGSRR/HEGSRR-Template)
