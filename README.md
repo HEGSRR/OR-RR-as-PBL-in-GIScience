@@ -6,9 +6,13 @@ The curricular models used to teach GIScience may leave students underprepared t
 
 ## Authors
 
-- [Peter Kedron](https://peterkedron.com/)
-- [Andrew Trgovac](https://www.andrewtrgovac.com/)
-- [Joseph Holler](https://github.com/josephholler)
+- [Peter Kedron](https://www.geog.ucsb.edu/people/faculty/peter-kedron) ORCID:[0000-0002-1093-3416](https://orcid.org/0000-0002-1093-3416)
+- [Andrew Trgovac](https://search.asu.edu/profile/3539560) ORCID:[0000-0002-1390-9868](https://orcid.org/0000-0002-1390-9868)
+- [Joseph Holler](https://github.com/josephholler) ORCID:[0000-0002-2381-2699](https://orcid.org/0000-0002-2381-2699)
+
+## Potential Class Reproductions
+
+See this table: [Potential_Class_Reproductions.csv](Potential_Class_Reproductions.csv)
 
 ## Repository Relates to:
 
@@ -16,8 +20,12 @@ The curricular models used to teach GIScience may leave students underprepared t
 - OSF Preprint: [https://10.31219/osf.io/6mnaj_v1](https://10.31219/osf.io/6mnaj_v1)
 - Course Website: [https://opengisci.github.io/](https://opengisci.github.io/)
 - Repository Template: [https://github.com/HEGSRR/HEGSRR-Template](https://github.com/HEGSRR/HEGSRR-Template)
-- Example Reproductions: [Malcomb et al. (2014)](https://github.com/HEGSRR/RPr-Malcomb-2014), [Chakraborty (2021)](https://doi.org/10.17605/OSF.IO/S5MTQ), [Spielman et al. (2020)](https://doi.org/10.17605/OSF.IO/DZPE9), [Kang et al. (2020)](https://doi.org/10.17605/OSF.IO/N92V3), [Vijayan et al. (2020)](https://doi.org/10.17605/OSF.IO/MY5DZ), [Saffary et al. (2020)](https://doi.org/10.17605/OSF.IO/QFKG4), [Mollalo et al. (2020)](https://doi.org/10.17605/OSF.IO/E43KQ), [DiMaggio et al. (2020)](https://doi.org/10.17605/OSF.IO/N32GE ).
-
-## Repository Contents
-
-The contents of this repository are outlined in three tables:
+- Example Reproductions:
+  - [Chakraborty (2021)](https://doi.org/10.17605/OSF.IO/S5MTQ)
+  - [DiMaggio et al. (2020)](https://doi.org/10.17605/OSF.IO/N32GE)
+  - [Kang et al. (2020)](https://doi.org/10.17605/OSF.IO/N92V3)
+  - [Malcomb et al. (2014)](https://github.com/HEGSRR/RPr-Malcomb-2014)
+  - [Mollalo et al. (2020)](https://doi.org/10.17605/OSF.IO/E43KQ)
+  - [Saffary et al. (2020)](https://doi.org/10.17605/OSF.IO/QFKG4)
+  - [Spielman et al. (2020)](https://doi.org/10.17605/OSF.IO/DZPE9)
+  - [Vijayan et al. (2020)](https://doi.org/10.17605/OSF.IO/MY5DZ)
