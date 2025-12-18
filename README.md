@@ -16,7 +16,7 @@ See this table: [Potential_Class_Reproductions.csv](Potential_Class_Reproduction
 
 ## Repository Relates to:
 
-- Publication:
+- Publication: [https://doi.org/10.1111/tgis.70162]([https://doi.org/10.1111/tgis.70162)
 - OSF Project: [https://doi.org/10.17605/OSF.IO/N8S43](https://doi.org/10.17605/OSF.IO/N8S43)
 - OSF Preprint: [https://10.31219/osf.io/6mnaj_v1](https://10.31219/osf.io/6mnaj_v1)
 - Course Website: [https://opengisci.github.io/](https://opengisci.github.io/)
